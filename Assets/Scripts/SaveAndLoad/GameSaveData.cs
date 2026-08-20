@@ -9,5 +9,6 @@ public class GameSaveData
     public int maxHealth;
     public Vector3 playerPosition;
     public Vector3 playerRotation;
+    public Vector3 cameraRotation;
     public string systemTimeDate;
 }

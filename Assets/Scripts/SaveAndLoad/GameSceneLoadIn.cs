@@ -8,6 +8,6 @@ public class GameSceneLoadIn : MonoBehaviour
     {
         saveAndLoad = GetComponent<GameSaveAndLoad>();
         saveAndLoad.LoadGame();
+       
     }
-    
 }
